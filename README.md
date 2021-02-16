@@ -2,4 +2,4 @@
 
 # installations
 
-`npm i shadowizard --save`
+`npm i shadowizard --save `
